@@ -5,7 +5,7 @@
     <br>
     <b>Pluggable Telegram UserBot</b>
     <br>
-    <a href="https://github.com/UsergeTeam/Userge#inspiration-">Inspiration</a>
+    <a href="https://github.com/Itztonystark/Userge#inspiration-">Inspiration</a>
     &nbsp•&nbsp
     <a href="https://github.com/UsergeTeam/Userge#documentation-">Documentation</a>
     &nbsp•&nbsp
@@ -61,10 +61,10 @@
 
 ### Project Credits 💆‍♂️
 
-* [Specially to these projects](https://github.com/UsergeTeam/Userge#inspiration-) 🥰
+* [Specially to these projects](https://github.com/Itztonystark/Userge#inspiration-) 🥰
 * [Contributors](https://github.com/UsergeTeam/Userge/graphs/contributors) 👥
 
 ### Copyright & License 👮
 
-* Copyright (C) 2020 - 2022 by [UsergeTeam](https://github.com/UsergeTeam) ❤️️
-* Licensed under the terms of the [GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007](https://github.com/UsergeTeam/Userge/blob/master/LICENSE)
+* Copyright (C) 2020 - 2022 by [UsergeTeam](https://github.com/Itztonystark) ❤️️
+* Licensed under the terms of the [GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007](https://github.com/Itztonystark/Userge/blob/master/LICENSE)
